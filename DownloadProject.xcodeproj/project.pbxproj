@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		199B35E51B78C1CB0071ED91 /* DownloadProject.h in Headers */ = {isa = PBXBuildFile; fileRef = 199B35E41B78C1CB0071ED91 /* DownloadProject.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		199B35FD1B78C1E10071ED91 /* DownloadManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 199B35FB1B78C1E10071ED91 /* DownloadManager.h */; };
+		199B35FD1B78C1E10071ED91 /* DownloadManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 199B35FB1B78C1E10071ED91 /* DownloadManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		199B35FE1B78C1E10071ED91 /* DownloadManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 199B35FC1B78C1E10071ED91 /* DownloadManager.m */; };
 /* End PBXBuildFile section */
 
