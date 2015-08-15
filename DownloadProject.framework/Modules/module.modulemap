@@ -1,0 +1,6 @@
+framework module DownloadProject {
+  umbrella header "DownloadProject.h"
+
+  export *
+  module * { export * }
+}
